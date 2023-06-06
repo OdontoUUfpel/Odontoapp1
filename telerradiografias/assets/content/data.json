@@ -1,0 +1,186 @@
+[
+  {
+    "number": "01",
+    "name": "Localizada na Maxila",
+    "description": "Lesão única localizada em uma região específica da maxila, como a região anterior, a região posterior ou a região de tuberosidade, por exemplo. Importante reconhecer, pois há lesões com predileção por determinado osso e mesmo por determinado local daquele osso, ou para sugerir a origem / tipo de tecido que compõe a lesão.",
+    "printImage": "./assets/img/A.jpg",
+    "baseImage": "./assets/img/1.jpg"
+  },
+  {
+    "number": "02",
+    "name": "Localizada na Mandíbula",
+    "description": "Lesão única localizada em uma região específica da mandíbula, como a região de sínfise, corpo, ramo ascendente, ângulo ou côndilo. Importante reconhecer, pois há lesões com predileção por determinado osso e mesmo por determinado local daquele osso, ou para sugerir a origem / tipo de tecido que compõe a lesão.",
+    "printImage": "./assets/img/A.jpg",
+    "baseImage": "./assets/img/2.jpg"
+  },
+  {
+    "number": "03",
+    "name": "Periapical",
+    "description": "Lesão que se localiza ao redor do ápice de um dente, normalmente, mas não exclusivamente, associada a processos de origem pulpar (inflamatória).",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/3.jpg"
+  },
+  {
+    "number": "04",
+    "name": "Pericoronária",
+    "description": "Lesão que se localiza ao redor da coroa de um dente não erupcionado. Normalmente possui origem odontogênica, por apresentar proximidade com tecido dentário.",
+    "printImage": "./assets/img/C.jpg",
+    "baseImage": "./assets/img/4.jpg"
+  },
+  {
+    "number": "05",
+    "name": "5. Entre as Raízes Dentárias",
+    "description": " Lesão que se localiza entre as raízes de dois dentes, muitas vezes causando o deslocamento / afastamento destas raízes. O exemplo mais típico é o do cisto periodontal lateral.",
+    "printImage": "./assets/img/A.jpg",
+    "baseImage": "./assets/img/5.jpg"
+  },
+  {
+    "number": "06",
+    "name": "Localizada na Linha Média",
+    "description": " Lesão localizada na região de incisivos (superiores ou inferiores), na linha média facial. Normalmente está associada a estruturas anatômicas destas regiões específicas, como o cisto do nasopalatino.",
+    "printImage": "./assets/img/E.jpg",
+    "baseImage": "./assets/img/6.jpg"
+  },
+  {
+    "number": "07",
+    "name": "Ultrapassando a Linha Média",
+    "description": "Densa faixa radiopaca em forma de anzol projetada no seio maxilar, acima dos molares.",
+    "printImage": "./assets/img/A.jpg",
+    "baseImage": "./assets/img/7.jpg"
+  },
+  {
+    "number": "08",
+    "name": "Acima do Canal Mandibular",
+    "description": "Lesão vista acima do limite superior (teto) do canal mandibular. Normalmente essas lesões possuem origem odontogênica, por se formarem próximas aos tecidos dentários.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/8.jpg"
+  },
+  {
+    "number": "09",
+    "name": "Abaixo do Canal Mandibular",
+    "description": "Lesão vista abaixo do limite inferior (soalho) do canal mandibular. Normalmente essas lesões possuem outra origem, que não a odontogênica, por se formarem distantes dos tecidos dentários.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/9.jpg"
+  },
+  {
+    "number": "10",
+    "name": "No Interior do Canal Mandibular",
+    "description": "Lesão vista entre o limite superior (teto) e o limite inferior (soalho) do canal mandibular. Normalmente são lesões de origem neural ou vascular, pois pelo interior do canal mandibular passam vasos e nervos.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/10.jpg"
+  },
+  {
+    "number": "11",
+    "name": "Em Maxila ou Mandíbula (mais de um local no mesmo osso)",
+    "description": "Lesão que afeta várias regiões da maxila ou da mandíbula, possuindo a mesma origem.",
+    "printImage": "./assets/img/D.jpg",
+    "baseImage": "./assets/img/11.jpg"
+  },
+  {
+    "number": "12",
+    "name": "Em Maxila e Mandíbula (ambos os maxilares)",
+    "description": "Lesões que afetam uma ou várias regiões da maxila e da mandíbula ao mesmo tempo, possuindo a mesma origem.",
+    "printImage": "./assets/img/D.jpg",
+    "baseImage": "./assets/img/12.jpg"
+  },
+  {
+    "number": "13",
+    "name": " Em Maxila e - ou Mandíbula e Outros Ossos Faciais-Cranianos",
+    "description": "Lesões que afetam uma ou várias regiões da maxila e/ou mandíbula, além de outros ossos faciais ou cranianos.",
+    "printImage": "./assets/img/C.jpg",
+    "baseImage": "./assets/img/13.jpg"
+  },
+  {
+    "number": "14",
+    "name": "Bilateral",
+    "description": "Lesões que apresentam aspecto quase que “espelhado” em ambos os lados da face, ou seja, as imagens dos lados direito e esquerdo da face são muito semelhantes em relação à posição, tamanho, densidade, padrão de loculações, entre outras características.",
+    "printImage": "./assets/img/D.jpg",
+    "baseImage": "./assets/img/14.jpg"
+  },
+  {
+    "number": "15",
+    "name": "Radiolúcida",
+    "description": "Apresenta uma aparência escura, indicando que permite a passagem da radiação através dela, geralmente por apresentar menor densidade do que as estruturas ao redor, como osso ou outros tecidos calcificados. Representam o maior grupo de lesões e se formam pela destruição de trabéculas ósseas e/ou aumento dos espaços medulares, reabsorção do tecido ósseo, ou substituição do tecido ósseo por outro tecido com menor densidade (tecido mole ou líquido).",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/15.jpg"
+  },
+  {
+    "number": "16",
+    "name": "Radiopaca",
+    "description": "Apresenta uma aparência branca ou opaca, indicando que não permite / barra a passagem da radiação através dela, geralmente por apresentar maior densidade do que as estruturas ao redor, como osso ou outros tecidos calcificados. São menos frequentes que as radiolúcidas e apresentam esse aspecto pela deposição de tecido mineralizado, aumento de espessura do tecido ósseo ou pelo aumento no número / espessamento das trabéculas ósseas e diminuição dos espaços medulares.  ",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/16.jpg"
+  },
+  {
+    "number": "17",
+    "name": "Mista",
+    "description": "Uma lesão mista é geralmente uma combinação de tecidos ou substâncias que possuem diferentes densidades radiográficas. Essa mistura de características radiolúcidas e radiopacas pode ocorrer devido a várias razões, como diferentes tipos de tecidos envolvidos na lesão ou a presença de elementos calcificados no interior da lesão. Representa o menor grupo de lesões.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/17.jpg"
+  },
+  {
+    "number": "18",
+    "name": "Densidade Específicas",
+    
+    "description": "Estrutura radiopaca curvilínea entre o corpo e ramo da mandíbula.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/18.jpg"
+  },
+  {
+    "number": "19",
+    "name": "Unilocular",
+    "description": "Estrutura radiopaca limitada superiormente pela cabeça da mandíbula e processo coronóide e inferiormente pelo ângulo da mandíbula.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/19.jpg"
+  },
+  {
+    "number": "20",
+    "name": "Cabeça da Mandíbula",
+    "description": "Estrutura radiopaca de contornos regulares e forma arredondada, localizada no limite superior e distal do ramo ascendente.",
+    "printImage": "./assets/img/B.jpg",
+    "baseImage": "./assets/img/20.jpg"
+  },
+  {
+    "number": "21",
+    "name": "Incisura Mandibular",
+    "description": "Concavidade no ramo ascendente da mandíbula, entre a cabeça da mandíbula e o processo coronóide.",
+    "printImage": "./assets/img/E.jpg",
+    "baseImage": "./assets/img/21.jpg"
+  },
+  {
+    "number": "22",
+    "name": "Processo Coronóide",
+    "description": "Estrutura radiopaca, triangular, localizada na porção anterior do ramo ascendente da mandíbula. Pode ser visualizada sobreposta a porção posterior da maxila.",
+    "printImage": "./assets/img/E.jpg",
+    "baseImage": "./assets/img/22.jpg"
+  },
+  {
+    "number": "23",
+    "name": "Células da Mastóide",
+    "description": "Áreas radiolúcidas arredondadas no interior do processo mastóide, localizadas posteriormente ao meato acústico externo.",
+    "printImage": "./assets/img/D.jpg",
+    "baseImage": "./assets/img/23.jpg"
+  },
+  {
+    "number": "24",
+    "name": "Meato Acústico Externo",
+    "description": "Área radiolúcida de formato ovóide ou arredondado anterior às células da mastóide.",
+    "printImage": "./assets/img/E.jpg",
+    "baseImage": "./assets/img/24.jpg"
+  },
+  {
+    "number": "25",
+    "name": "Oro e Nasofaringe",
+    "description": "Ampla área radiolúcida localizada à frente das vértebras e que se direciona para as cavidades bucal (orofaringe) e nasal (nasofaringe).",
+    "printImage": "./assets/img/C.jpg",
+    "baseImage": "./assets/img/25.jpg"
+  },
+  {
+    "number": "26",
+    "name": "Osso Hióide",
+    "description": "Aparece como uma radiopacidade no pescoço, à frente das vértebras cervicais.",
+    "printImage": "./assets/img/C.jpg",
+    "baseImage": "./assets/img/26.jpg"
+  },
+  
+]

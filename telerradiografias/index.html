@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/app.css" />
+
+    <title>Odonto Ufpel - Radiografias Panorâmicas</title>
+  </head>
+
+
+
+  <body>
+    <div class ="search-box ">
+      <div id="divBusca">
+        <img src="/" alt="Buscar..."/>
+        <nav class="menu">
+  <input id ="menu__toggle" type="checkbox" class='menu__toggle'/>
+  <label for="menu__toggle" class="menu__toggle-label">
+    <svg preserveAspectRatio='xMinYMin' viewBox='0 0 24 24'>
+      <path d='M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z' />
+    </svg>
+    <svg preserveAspectRatio='xMinYMin' viewBox='0 0 24 24'>
+      <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z" />
+    </svg>
+  </label>
+  <ol class='menu__content'>
+    <li class="menu-item"><a href="#0">Home</a></li>
+    <li class="menu-item"><a href="#0">About</a></li>
+    <li class="menu-item">
+      <a href="#0">Widgets</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="#0">Big Widgets</a></li>
+        <li class="menu-item"><a href="#0">Bigger Widgets</a></li>
+        <li class="menu-item"><a href="#0">Huge Widgets</a></li>
+      </ol>
+    </li>
+    <li class="menu-item">
+      <a href="#0">Kabobs</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="#0">Shishkabobs</a></li>
+        <li class="menu-item"><a href="#0">BBQ kabobs</a></li>
+        <li class="menu-item"><a href="#0">Summer kabobs</a></li>
+      </ol>
+    </li>
+    <li class="menu-item"><a href="#0">Contact</a></li>
+  </ol>
+</nav>
+        <input type="text" id="txtBusca" placeholder="Pesquisar..."/>
+        <a href="#"
+
+      </a>
+      </div>
+      
+      
+      
+
+
+
+    <header id="menu">
+      <span class="ham_menu"></span>
+      <span class="menu-text">MENU</span>
+      <button class="voice-recognition">
+        <i class="fas fa-microphone-alt"></i>
+      </button>
+
+      <nav class="modal">
+        <h2 class="titleList">
+          Aspecto Radiográfico de  Lesões
+        </h2>
+        <div id="stroke"></div>
+        <ul class="modal-list"></ul>
+      </nav>
+    </header>
+    <section id="general">
+      <div id="fullscreen" class="hide">
+        <nav class="buttons-fullscreen">
+          <h2 class="title">SEIO MAXILAR</h2>
+          <div id="stroke"></div>
+          <button class="print-areas">REMOVER</button>
+          <button class="remove-areas hide">VISUALIZAR</button>
+
+          <div class="commands">
+            <button class="previous">
+              <i class="fas fa-chevron-left prev-icon"></i>
+
+              <span class="prev-text">VOLTAR</span>
+            </button>
+
+            <button class="next">
+              <span class="next-text">AVANÇAR</span>
+              <i class="fas next-icon fa-chevron-right"></i>
+            </button>
+          </div>
+          <span class="ham_menu"></span>
+        </nav>
+      </div>
+
+      <div class="number">
+        <h1 class="number-text">SEIO MAXILAR</h1>
+      </div>
+      <a class="container-image" href="#">
+        <img src="./assets/img/base-1.jpg" alt="" />
+      </a>
+      <div class="info">
+        <p class="description">
+          Duas amplas áreas radiolúcas bilaterais, de contornos arredondados e
+          bem definidos por uma linha radiopaca, situadas no terço médio da
+          face.
+        </p>
+      </div>
+      <div class="commands">
+        <button class="previous">
+          <i class="fas fa-chevron-left prev-icon"></i>
+
+          <span class="prev-text">VOLTAR</span>
+        </button>
+
+        <button class="next">
+          <span class="next-text">AVANÇAR</span>
+          <i class="fas next-icon fa-chevron-right"></i>
+      </div>
+    </section>
+  </body>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"
+  ></script>
+  <script src="/node_modules/babel-polyfill/browser.js"></script>
+
+  <script src="assets/js/app-min.js"></script>
+</html>
